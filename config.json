@@ -1,0 +1,8 @@
+{
+  "Comment": "InstaWin Terminal Monitoring Tool v1",
+  "Comment1": "DO NOT CHANGE, DEFAULT SETTING",
+  "Interval": 5,
+  "Comment2": "CHANGE: OUTLET and TERMINAL ACCOUNT",
+  "Outlet": "AB Leisure Alabang",
+  "Terminal_account": "IWDGMD1T128"
+}
